@@ -13,9 +13,11 @@ Before running the tests, ensure you have the following installed:
    git clone <https://github.com/ApoorvaLingashettar/deepOrigin>
 
 2. Navigate to the project directory
+   ```bash
    cd <project-directory>
 
 3. Install dependencies
+   ```bash
    npm install
 
 ## Running Tests
