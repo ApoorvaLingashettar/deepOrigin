@@ -1,0 +1,7 @@
+{
+  "limit": 10,
+  "skip": 10,
+  "selectParam1": "title",
+  "selectParam2": "price",
+  "inValidParam": "DingDing"
+}
