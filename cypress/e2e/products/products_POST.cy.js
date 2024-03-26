@@ -1,4 +1,4 @@
-describe("Tests for GET calls on products", () => {
+describe("Tests for POST calls on products", () => {
 
   it("POST - add new product", () => {
     cy.fixture("addNewProduct").then((fixtureData) => {
