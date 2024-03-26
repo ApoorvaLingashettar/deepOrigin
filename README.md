@@ -22,11 +22,14 @@ Before running the tests, ensure you have the following installed:
 
 ## Running Tests
 1. To run all the tests, execute the following command:
+   ```bash
    npx cypress run
 
-2. To run specific test
+3. To run specific test
+   ```bash
    npx cypress run --spec <path-test-file>
 
-3. To run via cypress test runner
+5. To run via cypress test runner
+   ```bash
    npx cypress open,
    and click on the tests you choose to run or run all 
